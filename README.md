@@ -29,6 +29,8 @@ Determine os 20 melhores colocados, por ordem, para os pesos abaixo:
 - ciências humanas: 1
 - redação: 3
 
+Melhor nota: 1º 834.147619 ~~ 20º 781.923810
+
 No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna **NU_NOTA_MT**)
 de quem participou do ENEM 2016. 
 
