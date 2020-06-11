@@ -3,7 +3,6 @@
 </p>
 
 # Desafio Codenation Aceleração Data Science
-<br><br>
 links:<br>
 - https://codenation.dev/aceleradev/ds-online-2/challenge/enem-ps
 - https://docs.google.com/document/d/1Yrf3gDddKxwyNqo-CjC_B2hQYKulvDpDQunImfnNzWU/edit#bookmark=kix.86l049n1jw28
