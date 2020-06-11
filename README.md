@@ -1,7 +1,12 @@
-# Codenation
-Desafio Aceleração DS Codenation
-https://codenation.dev/aceleradev/ds-online-2/challenge/enem-ps
-https://docs.google.com/document/d/1Yrf3gDddKxwyNqo-CjC_B2hQYKulvDpDQunImfnNzWU/edit#bookmark=kix.86l049n1jw28
+<p align="center">
+  <img src="https://miro.medium.com/max/425/1*05vDjNRMACek8hWh1pnltA.png">
+</p>
+
+# Desafio Codenation Aceleração Data Science
+<br><br>
+links:<br>
+- https://codenation.dev/aceleradev/ds-online-2/challenge/enem-ps
+- https://docs.google.com/document/d/1Yrf3gDddKxwyNqo-CjC_B2hQYKulvDpDQunImfnNzWU/edit#bookmark=kix.86l049n1jw28
 
 # Descubra as melhores notas de matemática do ENEM 2016
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
@@ -29,14 +34,7 @@ Determine os 20 melhores colocados, por ordem, para os pesos abaixo:
 - ciências humanas: 1
 - redação: 3
 
-Melhor nota: 1º 834.147619 ~~ 20º 781.923810
-
-No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna **NU_NOTA_MT**)
-de quem participou do ENEM 2016. 
-
-Salve sua resposta em um arquivo chamado answer.csv com duas colunas: **NU_INSCRICAO** e **NU_NOTA_MT**.
-
-Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
+**Melhor nota:** 1º 834.147619 ~~ 20º 781.923810
 
 ## Observações
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, 
