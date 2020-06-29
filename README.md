@@ -4,8 +4,8 @@
 
 # Desafio Codenation Aceleração Data Science
 links:<br>
-- https://codenation.dev/aceleradev/ds-online-2/challenge/enem-ps
-- https://docs.google.com/document/d/1Yrf3gDddKxwyNqo-CjC_B2hQYKulvDpDQunImfnNzWU/edit#bookmark=kix.86l049n1jw28
+- [Pagina Score Desafio](https://codenation.dev/aceleradev/ds-online-2/challenge/enem-ps)
+- [FAQ Desafio](https://docs.google.com/document/d/1Yrf3gDddKxwyNqo-CjC_B2hQYKulvDpDQunImfnNzWU/edit#bookmark=kix.86l049n1jw28)
 
 # Descubra as melhores notas de matemática do ENEM 2016
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
@@ -20,8 +20,7 @@ Neste desafio você aprenderá:
 ## Detalhes
 O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponíveis no arquivo train.csv). 
 Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. 
-Qualquer dúvida a respeito das colunas, consulte o [Dicionário dos Microdados do Enem 2016]
-(https://s3-us-west-1.amazonaws.com/acceleration-assets-highway/data-science/dicionario-de-dados.zip).
+Qualquer dúvida a respeito das colunas, consulte o [Dicionário dos Microdados do Enem 2016](https://s3-us-west-1.amazonaws.com/acceleration-assets-highway/data-science/dicionario-de-dados.zip).
 
 Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. 
 Isto é feito com uma média ponderada das notas das provas de matemática, 
