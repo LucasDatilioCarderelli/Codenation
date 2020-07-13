@@ -28,4 +28,6 @@ Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra
 A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados;
 Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
 
-# [Orientações Para entrega do Projeto Final](https://docs.google.com/document/d/1MROnrFg10M_9JWmnFAEpcFmLGoAIPNTDJKltSOUOx8Q/edit)
+---
+
+[Orientações Para entrega do Projeto Final](https://docs.google.com/document/d/1MROnrFg10M_9JWmnFAEpcFmLGoAIPNTDJKltSOUOx8Q/edit)
