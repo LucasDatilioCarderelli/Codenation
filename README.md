@@ -31,4 +31,4 @@
 - Semana 5, teste de hipótese para distribuição normal com dados de atletas olímpicos.
 
 ### [Data-Science-3](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-3)
-- Semana 6, pratica em redução de dimensionalidade com PCA e seleção de variáveis com RFE com dados da FIFA 2019.
+- Semana 6, pratica em redução de dimensionalidade com PCA e seleção de variáveis com RFE com dados do jogo FIFA 2019.
