@@ -32,3 +32,6 @@
 
 ### [Data-Science-3](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-3)
 - Semana 6, pratica em redução de dimensionalidade com PCA e seleção de variáveis com RFE com dados do jogo FIFA 2019.
+
+### [Data-Science-4](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-4)
+- Semana 7, aplicação de diferente técnicas de engenharia de variáveis usando dados demográficos de paises.
