@@ -28,10 +28,10 @@
 - Semana 4, trabalhando com distribuição normal e binomial com dados de uma estrela de neutrons (pulsar), e dados gerados aleatoriamente.
 
 ### [Data-Science-2](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-2)
-- Semana 5, teste de hipótese para distribuição normal com dados de atletas olímpicos.
+- Semana 5, teste de hipótese para distribuição normal com dados de atletas olímpicos usando `scipy`.
 
 ### [Data-Science-3](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-3)
 - Semana 6, pratica em redução de dimensionalidade com PCA e seleção de variáveis com RFE com dados do jogo FIFA 2019.
 
 ### [Data-Science-4](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-4)
-- Semana 7, aplicação de diferente técnicas de engenharia de variáveis usando dados demográficos de paises.
+- Semana 7, aplicação de diferente técnicas de engenharia de variáveis usando dados demográficos de paises utilizando `SKLearn`.
