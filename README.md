@@ -35,3 +35,9 @@
 
 ### [Data-Science-4](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/data-science-4)
 - Semana 7, aplicação de diferente técnicas de engenharia de variáveis usando dados demográficos de paises utilizando `SKLearn`.
+
+### [ENEM-2](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/enem-2)
+- Semana 8, revisitando os dados do ENEM 2016 e predizendo a nota de matemática com a biblioteca de AutoML `TPOT`.
+
+### [ENEM-4](https://github.com/LucasDatilioCarderelli/Codenation/tree/master/enem-4)
+- Semana 9, predizendo com modelo de classificação quem fez o ENEM 2016 para.
